@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d94d9591-d033-4ca1-9a73-47746d1a5ea1": {
+      "ProjectGuid": "d94d9591-d033-4ca1-9a73-47746d1a5ea1",
+      "DisplayName": "BlazorAuthTest.Server",
+      "ColorIndex": 0
+    },
+    "d1f47970-7305-4926-8a12-16b4b2b80aec": {
+      "ProjectGuid": "d1f47970-7305-4926-8a12-16b4b2b80aec",
+      "DisplayName": "BlazorAuthTest.Client",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "82ee0ae2-6d87-4fbf-9987-fe6086c49d66": {
+      "ProjectGuid": "82ee0ae2-6d87-4fbf-9987-fe6086c49d66",
+      "DisplayName": "BlazorAuthTest.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

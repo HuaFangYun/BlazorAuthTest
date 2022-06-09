@@ -1,0 +1,12 @@
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\bin\Debug\net6.0\BlazorAuthTest.Shared.deps.json
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\bin\Debug\net6.0\BlazorAuthTest.Shared.dll
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\bin\Debug\net6.0\ref\BlazorAuthTest.Shared.dll
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\bin\Debug\net6.0\BlazorAuthTest.Shared.pdb
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.dll
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\ref\BlazorAuthTest.Shared.dll
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.pdb
+C:\Users\pierr\source\repos\Projekt\BlazorAuthTest\BlazorAuthTest\Shared\obj\Debug\net6.0\BlazorAuthTest.Shared.csproj.AssemblyReference.cache
